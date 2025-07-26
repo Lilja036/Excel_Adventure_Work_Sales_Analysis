@@ -10,7 +10,7 @@ The solution features two main views: a **Detailed Dashboard** for deep-dive ana
 ![Detailed Dashboard](Adventure_work_sales_analysis_dashboard_02.png)
 
 **Time Analysis View**
-![Time Analysis Dashboard](Adventure_work_sales_analysis_Dashboard_01.png)
+![Time Analysis Dashboard](Adventure_wrok_sales_analysis_Dashboard_01.png)
 
 
 ## Key Features & Insights
