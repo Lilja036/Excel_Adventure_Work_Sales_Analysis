@@ -6,11 +6,12 @@ This repository contains a comprehensive sales analysis dashboard for the Advent
 
 The solution features two main views: a **Detailed Dashboard** for deep-dive analysis and a **Time Analysis** dashboard for tracking performance trends.
 
+**Time Analysis View**
+![Time Analysis Dashboard](Adventure_wrok_sales_analysis_Dashboard_01.png)
+
 **Detailed Dashboard View**
 ![Detailed Dashboard](Adventure_work_sales_analysis_dashboard_02.png)
 
-**Time Analysis View**
-![Time Analysis Dashboard](Adventure_wrok_sales_analysis_Dashboard_01.png)
 
 
 ## Key Features & Insights
